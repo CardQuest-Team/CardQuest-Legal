@@ -68,8 +68,6 @@ is the property of the CardQuest development team and/or the credited artist(s).
 
 Users retain ownership of their own Discord content and usernames.  
 
-You may not use the **CardQuest** or **Lorepoly** names, logos, or assets for commercial purposes without prior written permission.
-
 ---
 
 ## 6. Availability and Support
