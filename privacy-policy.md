@@ -1,6 +1,6 @@
 # CardQuest – Privacy Policy  
 **Effective Date:** October 26, 2025  
-**Last Updated:** November 16, 2025  
+**Last Updated:** November 15, 2025  
 
 This Privacy Policy explains how **CardQuest** (“we,” “our,” or “the Bot”) collects, uses, and protects user information for both the **card collection system** and the **Lorepoly board game**.
 
